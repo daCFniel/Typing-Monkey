@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Monkey
+comment0.text=\r\n\ A\ random\ typing\ monkey.\r\n\ Based\ on\ an\ idea\ by\ Dermot\ Shinners-Kennedy.\r\n\ \r\n\ @author\ David\ J.\ Barnes,\ Daniel\ Bielech\r\n\ @version\ 2020.02.20\r\n
+comment1.params=dictionary
+comment1.target=Monkey(java.util.List)
+comment1.text=\r\n\ Create\ a\ random\ typing\ monkey.\r\n\ @param\ dictionary\ A\ list\ of\ valid\ words.\r\n
+comment2.params=numberOfWords\ duplicates
+comment2.target=java.util.List\ generate(int,\ boolean)
+comment2.text=\r\n\ Generate\ the\ given\ number\ of\ words.\r\n\ @param\ numberOfWords\ How\ many\ to\ generate.\r\n\ @return\ A\ list\ of\ the\ words\ generated.\r\n
+comment3.params=
+comment3.target=java.lang.String\ generateRandomWord()
+comment3.text=\r\n\ Generate\ a\ random\ word.\r\n\ @return\ The\ generated\ word.\ The\ length\ could\ be\ zero.\r\n
+comment4.params=
+comment4.target=char\ generateRandomChar()
+comment4.text=\r\n\ Generate\ a\ random\ char\ from\ the\ alphabet.\r\n\ @return\ A\ random\ character\ from\ the\ alphabet.\r\n
+numComments=5
